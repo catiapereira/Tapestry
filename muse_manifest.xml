@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1471865923562">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1471873764626">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="232841505" ref="phone>index"/>
+      <file name="index.css" crc="196527429" ref="phone>index"/>
       <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3890128879" seo="true" mt="1471865492067" redirect="true"/>
+    <file name="index.html" crc="172464599" seo="true" mt="1471872904223" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3794487093"/>
     <file name="human-computer.css" crc="168659771" ref="human-computer"/>
-    <file name="index.css" crc="4107720770" ref="index"/>
-    <file name="nomq_index.css" crc="167525693" ref="index"/>
+    <file name="index.css" crc="4050477925" ref="index"/>
+    <file name="nomq_index.css" crc="111417609" ref="index"/>
     <file name="services.css" crc="225440678" ref="services"/>
     <file name="blog-service-design.css" crc="228693365" ref="blog-service-design"/>
     <file name="information-system.css" crc="4040184578" ref="information-system"/>
@@ -41,15 +41,15 @@
     <file name="museutils.js" crc="3790713428" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
     <file name="whatinput.js" crc="84559013" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
     <file name="pie.js" crc="3827607177" ref="index:about:services:blog-service-design:information-system:game-design:human-computer"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:about:services:blog-service-design:information-system:game-design:human-computer"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
     <file name="jquery.watch.js" crc="4244854265" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:services:blog-service-design:information-system:game-design:human-computer"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
     <file name="museredirect.js" crc="71780213" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="animadologo.gif" crc="3981825605" seo="true" ref="index:phone>index"/>
+    <file name="animadologo.gif" crc="3981825605" seo="true" ref="index"/>
     <file name="u2352-6.png" crc="342592419" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
     <file name="u13086.png" crc="356027031" ref="index"/>
@@ -222,13 +222,13 @@
     <file name="u2352-63.png" crc="39632470" ref="index"/>
     <file name="u254-63.png" crc="4289133715" ref="index"/>
     <file name="u257-43.png" crc="3982182229" ref="index"/>
-    <file name="u618.png" crc="484798296" ref="index"/>
-    <file name="u618-r.png" crc="484798296" ref="index"/>
-    <file name="u664_states3.png" crc="337914891" ref="index"/>
-    <file name="u664_states-r3.png" crc="313740010" ref="index"/>
-    <file name="u676_states3.png" crc="3857432392" ref="index"/>
-    <file name="u676_states-r3.png" crc="3870241794" ref="index"/>
-    <file name="u689-43.png" crc="3885148164" ref="index"/>
+    <file name="u618.png" crc="281906788" ref="index"/>
+    <file name="u618-r.png" crc="281906788" ref="index"/>
+    <file name="u664_states3.png" crc="3815852599" ref="index"/>
+    <file name="u664_states-r3.png" crc="4242498847" ref="index"/>
+    <file name="u676_states3.png" crc="4293574307" ref="index"/>
+    <file name="u676_states-r3.png" crc="3938904046" ref="index"/>
+    <file name="u689-43.png" crc="38642285" ref="index"/>
     <file name="u638.png" crc="3853501358" ref="index"/>
     <file name="u638-r.png" crc="3853501358" ref="index"/>
     <file name="u667_states3.png" crc="453378417" ref="index"/>
@@ -238,8 +238,6 @@
     <file name="u692-43.png" crc="230721023" ref="index"/>
     <file name="u648.png" crc="508085774" ref="index"/>
     <file name="u648-r.png" crc="508085774" ref="index"/>
-    <file name="u628.png" crc="3828335618" ref="index"/>
-    <file name="u628-r.png" crc="3828335618" ref="index"/>
     <file name="u658_states3.png" crc="3988979668" ref="index"/>
     <file name="u658_states-r3.png" crc="436832734" ref="index"/>
     <file name="u661_states3.png" crc="486464152" ref="index"/>
@@ -624,23 +622,8 @@
     <file name="u14599_states.png" crc="269471619" ref="human-computer"/>
     <file name="u14599_states-r.png" crc="4186791941" ref="human-computer"/>
     <file name="u15713-4.png" crc="501294162" ref="human-computer"/>
-    <file name="u17125-6.png" crc="342592419" ref="phone>index"/>
+    <file name="u17125-6.png" crc="4010780661" ref="phone>index"/>
     <file name="u17076-6.png" crc="3829345409" ref="phone>index"/>
-    <file name="u17163.png" crc="356027031" ref="phone>index"/>
-    <file name="u17163-r.png" crc="4047310364" ref="phone>index"/>
-    <file name="u17163-a.png" crc="4047310364" ref="phone>index"/>
-    <file name="u17147.png" crc="4126046181" ref="phone>index"/>
-    <file name="u17147-r.png" crc="4004538918" ref="phone>index"/>
-    <file name="u17147-a.png" crc="4004538918" ref="phone>index"/>
-    <file name="u17171.png" crc="4077336268" ref="phone>index"/>
-    <file name="u17171-r.png" crc="467426802" ref="phone>index"/>
-    <file name="u17171-a.png" crc="467426802" ref="phone>index"/>
-    <file name="u17156.png" crc="133068092" ref="phone>index"/>
-    <file name="u17156-r.png" crc="399170646" ref="phone>index"/>
-    <file name="u17156-a.png" crc="399170646" ref="phone>index"/>
-    <file name="u17175.png" crc="236187600" ref="phone>index"/>
-    <file name="u17175-r.png" crc="3831451612" ref="phone>index"/>
-    <file name="u17175-a.png" crc="3831451612" ref="phone>index"/>
     <file name="u17077-7.png" crc="3849372775" ref="phone>index"/>
     <file name="u17074.png" crc="444695197" ref="phone>index"/>
     <file name="u17074-r.png" crc="444695197" ref="phone>index"/>
@@ -668,23 +651,23 @@
     <file name="u17095_states.png" crc="4294384152" ref="phone>index"/>
     <file name="u17095_states-r.png" crc="416927418" ref="phone>index"/>
     <file name="u17097-4.png" crc="3984008446" ref="phone>index"/>
-    <file name="u17107-4.png" crc="3837008627" ref="phone>index"/>
+    <file name="u17107-4.png" crc="309342664" ref="phone>index"/>
     <file name="u17098-5.png" crc="3913612067" ref="phone>index"/>
     <file name="u17099-6.png" crc="40040937" ref="phone>index"/>
     <file name="u17111-4.png" crc="78943995" ref="phone>index"/>
     <file name="u17129-4.png" crc="318051905" ref="phone>index"/>
-    <file name="u17120_states.png" crc="4109479524" ref="phone>index"/>
-    <file name="u17120_states-r.png" crc="177408768" ref="phone>index"/>
-    <file name="u17112-4.png" crc="55687624" ref="phone>index"/>
+    <file name="u17120_states.png" crc="4281986506" ref="phone>index"/>
+    <file name="u17120_states-r.png" crc="249754915" ref="phone>index"/>
+    <file name="u17112-4.png" crc="3882026102" ref="phone>index"/>
     <file name="u17100-6.png" crc="3892215408" ref="phone>index"/>
     <file name="u17101-6.png" crc="157546552" ref="phone>index"/>
     <file name="u17102-6.png" crc="83452472" ref="phone>index"/>
     <file name="u17103-12.png" crc="245551084" ref="phone>index"/>
     <file name="u17105-5.png" crc="377282248" ref="phone>index"/>
     <file name="u17104-6.png" crc="519625269" ref="phone>index"/>
-    <file name="u17122_states.png" crc="295723169" ref="phone>index"/>
-    <file name="u17122_states-r.png" crc="4003091782" ref="phone>index"/>
-    <file name="u17115-4.png" crc="241914689" ref="phone>index"/>
+    <file name="u17122_states.png" crc="391621110" ref="phone>index"/>
+    <file name="u17122_states-r.png" crc="4212928836" ref="phone>index"/>
+    <file name="u17115-4.png" crc="3792603632" ref="phone>index"/>
     <file name="u17130-6.png" crc="284732070" ref="phone>index"/>
     <file name="u17139-6.png" crc="35716920" ref="phone>index"/>
     <file name="u17141_states.png" crc="4132968463" ref="phone>index"/>
@@ -695,22 +678,23 @@
     <file name="u17140_states-r.png" crc="3780927322" ref="phone>index"/>
     <file name="u17119_states.png" crc="342747397" ref="phone>index"/>
     <file name="u17119_states-r.png" crc="364837952" ref="phone>index"/>
-    <file name="u17124_states.png" crc="4240355731" ref="phone>index"/>
-    <file name="u17124_states-r.png" crc="3868666100" ref="phone>index"/>
+    <file name="u17124_states.png" crc="4005592520" ref="phone>index"/>
+    <file name="u17124_states-r.png" crc="225082441" ref="phone>index"/>
     <file name="u17180-6.png" crc="262238004" ref="phone>index"/>
     <file name="u17193-4.png" crc="236928192" ref="phone>index"/>
     <file name="u17181-4.png" crc="4199220620" ref="phone>index"/>
-    <file name="u17185-4.png" crc="211946004" ref="phone>index"/>
-    <file name="u17186-6.png" crc="4027809324" ref="phone>index"/>
-    <file name="u17187-4.png" crc="248506333" ref="phone>index"/>
-    <file name="u17183_states.png" crc="359725118" ref="phone>index"/>
-    <file name="u17183_states-r.png" crc="190390569" ref="phone>index"/>
+    <file name="u17185-4.png" crc="536083706" ref="phone>index"/>
+    <file name="u17186-6.png" crc="4074405947" ref="phone>index"/>
+    <file name="u17187-4.png" crc="4208215936" ref="phone>index"/>
+    <file name="u17183_states.png" crc="4011175562" ref="phone>index"/>
+    <file name="u17183_states-r.png" crc="243827338" ref="phone>index"/>
     <file name="u17189_states.png" crc="225212069" ref="phone>index"/>
     <file name="u17189_states-r.png" crc="3815913532" ref="phone>index"/>
     <file name="u17190_states.png" crc="4085546767" ref="phone>index"/>
     <file name="u17190_states-r.png" crc="89312122" ref="phone>index"/>
+    <file name="animadologo-u17196.png" crc="4181300638" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="100064235" seo="true" mt="1471865859312" redirect="true"/>
+  <file name="index.html" crc="146616315" seo="true" mt="1471870923885" redirect="true"/>
   <file name="about.html" crc="4251068786" seo="true" mt="1471708950451" redirect="true"/>
   <file name="services.html" crc="3913317408" seo="true" mt="1471787273778" redirect="true"/>
   <file name="blog-service-design.html" crc="216019819" seo="true" mt="1471709053240" redirect="true"/>
