@@ -104,105 +104,106 @@
   </url>
   <url>
     <loc>http://tap.com/images/animadologo.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/555555-04.png</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/6666666-04.png</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/4444444444-04.png</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/66666-04.png</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/sep-04.png</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/development.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/service.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/game.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/techn.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/ww.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/logo-animado-sem-fundo.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/gifgifgif.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/untitled-2.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/gif4.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/images/gifgif.gif</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tap.com/index.html</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tap.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://tap.com/about.html</loc>
@@ -212,7 +213,7 @@
   </url>
   <url>
     <loc>http://tap.com/services.html</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
