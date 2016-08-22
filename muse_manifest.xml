@@ -1,10 +1,9 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1471873764626">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1471875063141">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="196527429" ref="phone>index"/>
-      <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
+      <file name="index.css" crc="254309586" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="172464599" seo="true" mt="1471872904223" redirect="true"/>
+    <file name="index.html" crc="487414075" seo="true" mt="1471874968310" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3794487093"/>
