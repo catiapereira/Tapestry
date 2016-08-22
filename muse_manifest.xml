@@ -1,14 +1,27 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1471875063141">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1471889093734">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="254309586" ref="phone>index"/>
+      <file name="index.css" crc="235332357" ref="phone>index"/>
+      <file name="game-design.css" crc="527632092" ref="phone>game-design"/>
+      <file name="information-system.css" crc="4104067632" ref="phone>information-system"/>
+      <file name="blog--service-design-t.css" crc="3952503983" ref="phone>blog--service-design-t"/>
+      <file name="servicest.css" crc="153886231" ref="phone>servicest"/>
+      <file name="aboutt.css" crc="3974471713" ref="phone>aboutt"/>
+      <file name="human-computer.css" crc="4046699809" ref="phone>human-computer"/>
+      <file name="nomq_human-computer.css" crc="321525473" ref="phone>human-computer"/>
     </folder>
-    <file name="index.html" crc="487414075" seo="true" mt="1471874968310" redirect="true"/>
+    <file name="index.html" crc="4217273015" seo="true" mt="1471879880851" redirect="true"/>
+    <file name="aboutt.html" crc="3860649968" seo="true" mt="1471882997124" redirect="true"/>
+    <file name="servicest.html" crc="301980372" seo="true" mt="1471879021873" redirect="true"/>
+    <file name="blog--service-design-t.html" crc="3913210309" seo="true" mt="1471883158738" redirect="true"/>
+    <file name="information-system.html" crc="4020181334" seo="true" mt="1471888810358" redirect="true"/>
+    <file name="game-design.html" crc="4200146013" seo="true" mt="1471888367645" redirect="true"/>
+    <file name="human-computer.html" crc="3956203002" seo="true" mt="1471888626686" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3794487093"/>
     <file name="human-computer.css" crc="168659771" ref="human-computer"/>
-    <file name="index.css" crc="4050477925" ref="index"/>
+    <file name="index.css" crc="3790821181" ref="index"/>
     <file name="nomq_index.css" crc="111417609" ref="index"/>
     <file name="services.css" crc="225440678" ref="services"/>
     <file name="blog-service-design.css" crc="228693365" ref="blog-service-design"/>
@@ -36,21 +49,21 @@
     <file name="captura-de-ecrã-2016-06-11,-às-15.40.40.png" crc="4147567071" seo="true" mt="1465656044000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
-    <file name="museutils.js" crc="3790713428" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
-    <file name="whatinput.js" crc="84559013" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
+    <file name="museutils.js" crc="3790713428" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
     <file name="pie.js" crc="3827607177" ref="index:about:services:blog-service-design:information-system:game-design:human-computer"/>
     <file name="jquery.musemenu.js" crc="238543590" ref="index:about:services:blog-service-design:information-system:game-design:human-computer"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:services:blog-service-design:information-system:game-design:human-computer"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
-    <file name="museredirect.js" crc="71780213" ref="index"/>
+    <file name="museredirect.js" crc="71780213" ref="index:information-system:game-design:human-computer"/>
   </folder>
   <folder name="images">
     <file name="animadologo.gif" crc="3981825605" seo="true" ref="index"/>
     <file name="u2352-6.png" crc="342592419" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
     <file name="u13086.png" crc="356027031" ref="index"/>
     <file name="u13086-r.png" crc="4047310364" ref="index"/>
     <file name="u13086-a.png" crc="4047310364" ref="index"/>
@@ -93,7 +106,7 @@
     <file name="u689-4.png" crc="3864874703" ref="index"/>
     <file name="u692-4.png" crc="3919800128" ref="index"/>
     <file name="u1018-4.png" crc="444473767" ref="index"/>
-    <file name="sep-04.png" crc="4255774405" seo="true" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
+    <file name="sep-04.png" crc="4255774405" seo="true" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
     <file name="u727-5.png" crc="4106275571" ref="index"/>
     <file name="u751-4.png" crc="3963825498" ref="index"/>
     <file name="u1040-4.png" crc="4257282634" ref="index"/>
@@ -228,15 +241,15 @@
     <file name="u676_states3.png" crc="4293574307" ref="index"/>
     <file name="u676_states-r3.png" crc="3938904046" ref="index"/>
     <file name="u689-43.png" crc="38642285" ref="index"/>
-    <file name="u638.png" crc="3853501358" ref="index"/>
-    <file name="u638-r.png" crc="3853501358" ref="index"/>
+    <file name="u638.png" crc="4195960730" ref="index"/>
+    <file name="u638-r.png" crc="4195960730" ref="index"/>
     <file name="u667_states3.png" crc="453378417" ref="index"/>
     <file name="u667_states-r3.png" crc="4135596521" ref="index"/>
     <file name="u679_states3.png" crc="249326932" ref="index"/>
     <file name="u679_states-r3.png" crc="491471609" ref="index"/>
     <file name="u692-43.png" crc="230721023" ref="index"/>
-    <file name="u648.png" crc="508085774" ref="index"/>
-    <file name="u648-r.png" crc="508085774" ref="index"/>
+    <file name="u648.png" crc="4073187795" ref="index"/>
+    <file name="u648-r.png" crc="4073187795" ref="index"/>
     <file name="u658_states3.png" crc="3988979668" ref="index"/>
     <file name="u658_states-r3.png" crc="436832734" ref="index"/>
     <file name="u661_states3.png" crc="486464152" ref="index"/>
@@ -352,10 +365,10 @@
     <file name="u1665-4.png" crc="4018225770" ref="about"/>
     <file name="u1666-4.png" crc="111537747" ref="about"/>
     <file name="u14237-4.png" crc="4208530672" ref="about"/>
-    <file name="gifgifgif.gif" crc="3909097215" seo="true" ref="about"/>
-    <file name="untitled-2.gif" crc="4229114449" seo="true" ref="about"/>
-    <file name="gif4.gif" crc="4024453916" seo="true" ref="about"/>
-    <file name="gifgif.gif" crc="4102657714" seo="true" ref="about"/>
+    <file name="gifgifgif.gif" crc="3909097215" seo="true" ref="about:phone>aboutt"/>
+    <file name="untitled-2.gif" crc="4229114449" seo="true" ref="about:phone>aboutt"/>
+    <file name="gif4.gif" crc="4024453916" seo="true" ref="about:phone>aboutt"/>
+    <file name="gifgif.gif" crc="4102657714" seo="true" ref="about:phone>aboutt"/>
     <file name="u1690-4.png" crc="3841418111" ref="about"/>
     <file name="u1687-4.png" crc="6999609" ref="about"/>
     <file name="u14374.png" crc="3930451244" ref="about"/>
@@ -643,8 +656,8 @@
     <file name="u17086_states.png" crc="3881598415" ref="phone>index"/>
     <file name="u17086_states-r.png" crc="222037438" ref="phone>index"/>
     <file name="u17088-4.png" crc="3919800128" ref="phone>index"/>
-    <file name="u17079.png" crc="151136326" ref="phone>index"/>
-    <file name="u17079-r.png" crc="151136326" ref="phone>index"/>
+    <file name="u17079.png" crc="43240316" ref="phone>index"/>
+    <file name="u17079-r.png" crc="43240316" ref="phone>index"/>
     <file name="u17093_states.png" crc="3879657837" ref="phone>index"/>
     <file name="u17093_states-r.png" crc="500104593" ref="phone>index"/>
     <file name="u17095_states.png" crc="4294384152" ref="phone>index"/>
@@ -662,7 +675,7 @@
     <file name="u17101-6.png" crc="157546552" ref="phone>index"/>
     <file name="u17102-6.png" crc="83452472" ref="phone>index"/>
     <file name="u17103-12.png" crc="245551084" ref="phone>index"/>
-    <file name="u17105-5.png" crc="377282248" ref="phone>index"/>
+    <file name="u17105-5.png" crc="36957020" ref="phone>index"/>
     <file name="u17104-6.png" crc="519625269" ref="phone>index"/>
     <file name="u17122_states.png" crc="391621110" ref="phone>index"/>
     <file name="u17122_states-r.png" crc="4212928836" ref="phone>index"/>
@@ -692,12 +705,257 @@
     <file name="u17190_states.png" crc="4085546767" ref="phone>index"/>
     <file name="u17190_states-r.png" crc="89312122" ref="phone>index"/>
     <file name="animadologo-u17196.png" crc="4181300638" ref="phone>index"/>
+    <file name="image2.png" crc="342572759" seo="true" ref="phone>index"/>
+    <file name="image1.png" crc="3888453639" seo="true" ref="phone>index"/>
+    <file name="u18087-4.png" crc="3884703094" ref="phone>aboutt"/>
+    <file name="u18088-4.png" crc="335662199" ref="phone>aboutt"/>
+    <file name="u18089-9.png" crc="4092382820" ref="phone>aboutt"/>
+    <file name="u18067-4.png" crc="4043874868" ref="phone>aboutt"/>
+    <file name="u18035-4.png" crc="263075672" ref="phone>aboutt"/>
+    <file name="u18036-4.png" crc="4244534727" ref="phone>aboutt"/>
+    <file name="u18044-4.png" crc="285753374" ref="phone>aboutt"/>
+    <file name="u18045-4.png" crc="153590080" ref="phone>aboutt"/>
+    <file name="u18037-4.png" crc="207769406" ref="phone>aboutt"/>
+    <file name="u18038-4.png" crc="3850251315" ref="phone>aboutt"/>
+    <file name="u18039-4.png" crc="182064463" ref="phone>aboutt"/>
+    <file name="u18050-4.png" crc="4069197006" ref="phone>aboutt"/>
+    <file name="u18041-4.png" crc="260024406" ref="phone>aboutt"/>
+    <file name="u18042-4.png" crc="3783575355" ref="phone>aboutt"/>
+    <file name="u18046-4.png" crc="3767787846" ref="phone>aboutt"/>
+    <file name="u18047-4.png" crc="4105630379" ref="phone>aboutt"/>
+    <file name="u18043-4.png" crc="3795823761" ref="phone>aboutt"/>
+    <file name="u18048-4.png" crc="3967804649" ref="phone>aboutt"/>
+    <file name="u18040-4.png" crc="251699073" ref="phone>aboutt"/>
+    <file name="u18049-4.png" crc="89090505" ref="phone>aboutt"/>
+    <file name="u18064-4.png" crc="181398719" ref="phone>aboutt"/>
+    <file name="u18051-4.png" crc="397214248" ref="phone>aboutt"/>
+    <file name="u18052-4.png" crc="436039841" ref="phone>aboutt"/>
+    <file name="u18053-4.png" crc="4254734098" ref="phone>aboutt"/>
+    <file name="u18054-4.png" crc="3905919653" ref="phone>aboutt"/>
+    <file name="u18055-4.png" crc="3787496150" ref="phone>aboutt"/>
+    <file name="u18056-4.png" crc="122797543" ref="phone>aboutt"/>
+    <file name="u18057-4.png" crc="318146186" ref="phone>aboutt"/>
+    <file name="u18058-4.png" crc="435170991" ref="phone>aboutt"/>
+    <file name="u18059-5.png" crc="49029357" ref="phone>aboutt"/>
+    <file name="u18060-4.png" crc="4069640072" ref="phone>aboutt"/>
+    <file name="u18061-4.png" crc="378655193" ref="phone>aboutt"/>
+    <file name="u18063-6.png" crc="4016290927" ref="phone>aboutt"/>
+    <file name="u18070-4.png" crc="4262622774" ref="phone>aboutt"/>
+    <file name="u18062-4.png" crc="287660666" ref="phone>aboutt"/>
+    <file name="u18074.png" crc="3930451244" ref="phone>aboutt"/>
+    <file name="u18074-r.png" crc="3930451244" ref="phone>aboutt"/>
+    <file name="u18075.png" crc="44090460" ref="phone>aboutt"/>
+    <file name="u18075-r.png" crc="44090460" ref="phone>aboutt"/>
+    <file name="u18081.png" crc="4069538583" ref="phone>aboutt"/>
+    <file name="u18081-r.png" crc="4069538583" ref="phone>aboutt"/>
+    <file name="u18082-4.png" crc="501294162" ref="phone>aboutt"/>
+    <file name="u18083.png" crc="269471619" ref="phone>aboutt"/>
+    <file name="u18083-r.png" crc="4186791941" ref="phone>aboutt"/>
+    <file name="u18076.png" crc="80655561" ref="phone>aboutt"/>
+    <file name="u18076-r.png" crc="80655561" ref="phone>aboutt"/>
+    <file name="u18077.png" crc="393414192" ref="phone>aboutt"/>
+    <file name="u18077-r.png" crc="393414192" ref="phone>aboutt"/>
+    <file name="u18078.png" crc="4280666898" ref="phone>aboutt"/>
+    <file name="u18078-r.png" crc="4280666898" ref="phone>aboutt"/>
+    <file name="u18079_states.png" crc="486091552" ref="phone>aboutt"/>
+    <file name="u18079_states-r.png" crc="4112108706" ref="phone>aboutt"/>
+    <file name="u18080_states.png" crc="4178794581" ref="phone>aboutt"/>
+    <file name="u18080_states-r.png" crc="3877865249" ref="phone>aboutt"/>
+    <file name="u17900-4.png" crc="11043533" ref="phone>servicest"/>
+    <file name="u17908-4.png" crc="3930533784" ref="phone>servicest"/>
+    <file name="u17881-4.png" crc="437939877" ref="phone>servicest"/>
+    <file name="u17882-4.png" crc="3955241602" ref="phone>servicest"/>
+    <file name="u17883-4.png" crc="4287151749" ref="phone>servicest"/>
+    <file name="u17884-4.png" crc="92668067" ref="phone>servicest"/>
+    <file name="u17903-4.png" crc="3984817579" ref="phone>servicest"/>
+    <file name="u17885-6.png" crc="356145782" ref="phone>servicest"/>
+    <file name="u17865-4.png" crc="374209957" ref="phone>servicest"/>
+    <file name="u17866-4.png" crc="3761655060" ref="phone>servicest"/>
+    <file name="u17867-4.png" crc="4191626544" ref="phone>servicest"/>
+    <file name="u17868-4.png" crc="446225746" ref="phone>servicest"/>
+    <file name="u17869-4.png" crc="4280961704" ref="phone>servicest"/>
+    <file name="u17870-5.png" crc="4080871247" ref="phone>servicest"/>
+    <file name="u17872-4.png" crc="3880034865" ref="phone>servicest"/>
+    <file name="u17871-4.png" crc="3788955088" ref="phone>servicest"/>
+    <file name="u17873-4.png" crc="4191842275" ref="phone>servicest"/>
+    <file name="u17874-4.png" crc="2106288" ref="phone>servicest"/>
+    <file name="u17875-4.png" crc="4226889933" ref="phone>servicest"/>
+    <file name="u17876-4.png" crc="126950415" ref="phone>servicest"/>
+    <file name="u17877-4.png" crc="4146971494" ref="phone>servicest"/>
+    <file name="u17878-4.png" crc="3919629779" ref="phone>servicest"/>
+    <file name="u17879-4.png" crc="397887087" ref="phone>servicest"/>
+    <file name="u17880-4.png" crc="4163484697" ref="phone>servicest"/>
+    <file name="u17886-4.png" crc="347787143" ref="phone>servicest"/>
+    <file name="u17864-12.png" crc="3964173813" ref="phone>servicest"/>
+    <file name="u17888.png" crc="3930451244" ref="phone>servicest"/>
+    <file name="u17888-r.png" crc="3930451244" ref="phone>servicest"/>
+    <file name="u17889.png" crc="44090460" ref="phone>servicest"/>
+    <file name="u17889-r.png" crc="44090460" ref="phone>servicest"/>
+    <file name="u17895.png" crc="4069538583" ref="phone>servicest"/>
+    <file name="u17895-r.png" crc="4069538583" ref="phone>servicest"/>
+    <file name="u17907-4.png" crc="501294162" ref="phone>servicest"/>
+    <file name="u17896.png" crc="269471619" ref="phone>servicest"/>
+    <file name="u17896-r.png" crc="4186791941" ref="phone>servicest"/>
+    <file name="u17890.png" crc="80655561" ref="phone>servicest"/>
+    <file name="u17890-r.png" crc="80655561" ref="phone>servicest"/>
+    <file name="u17891.png" crc="393414192" ref="phone>servicest"/>
+    <file name="u17891-r.png" crc="393414192" ref="phone>servicest"/>
+    <file name="u17892.png" crc="4280666898" ref="phone>servicest"/>
+    <file name="u17892-r.png" crc="4280666898" ref="phone>servicest"/>
+    <file name="u17893_states.png" crc="486091552" ref="phone>servicest"/>
+    <file name="u17893_states-r.png" crc="4112108706" ref="phone>servicest"/>
+    <file name="u17894_states.png" crc="4178794581" ref="phone>servicest"/>
+    <file name="u17894_states-r.png" crc="3877865249" ref="phone>servicest"/>
+    <file name="u18321-4.png" crc="431714429" ref="phone>blog--service-design-t"/>
+    <file name="u18295-8.png" crc="214371925" ref="phone>blog--service-design-t"/>
+    <file name="u18302_states.png" crc="4059340545" ref="phone>blog--service-design-t"/>
+    <file name="u18302_states-r.png" crc="208582820" ref="phone>blog--service-design-t"/>
+    <file name="u18299_states.png" crc="406865937" ref="phone>blog--service-design-t"/>
+    <file name="u18299_states-r.png" crc="4215433110" ref="phone>blog--service-design-t"/>
+    <file name="u18300_states.png" crc="3917200770" ref="phone>blog--service-design-t"/>
+    <file name="u18300_states-r.png" crc="83761878" ref="phone>blog--service-design-t"/>
+    <file name="u18301_states.png" crc="4197500675" ref="phone>blog--service-design-t"/>
+    <file name="u18301_states-r.png" crc="3860523583" ref="phone>blog--service-design-t"/>
+    <file name="captura-de-ecrã-2016-06-02,-às-002431.png" crc="274866622" seo="true" ref="phone>blog--service-design-t"/>
+    <file name="u18294_states.png" crc="4164644583" ref="phone>blog--service-design-t"/>
+    <file name="u18294_states-r.png" crc="3826195951" ref="phone>blog--service-design-t"/>
+    <file name="u18304_states.png" crc="93750662" ref="phone>blog--service-design-t"/>
+    <file name="u18304_states-r.png" crc="395518306" ref="phone>blog--service-design-t"/>
+    <file name="captura-de-ecrã-2016-06-02,-às-002338.png" crc="3805242606" seo="true" ref="phone>blog--service-design-t"/>
+    <file name="u18298_states.png" crc="4252193548" ref="phone>blog--service-design-t"/>
+    <file name="u18298_states-r.png" crc="44495144" ref="phone>blog--service-design-t"/>
+    <file name="captura de ecrã 2016-06-11, às 150416-u18459.png" crc="3936663770" ref="phone>blog--service-design-t"/>
+    <file name="u18303_states.png" crc="308962438" ref="phone>blog--service-design-t"/>
+    <file name="u18303_states-r.png" crc="4261616952" ref="phone>blog--service-design-t"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-150611.png" crc="4280210264" seo="true" ref="phone>blog--service-design-t"/>
+    <file name="u18453_states.png" crc="4178364219" ref="phone>blog--service-design-t"/>
+    <file name="u18453_states-r.png" crc="303299943" ref="phone>blog--service-design-t"/>
+    <file name="u18308.png" crc="3930451244" ref="phone>blog--service-design-t"/>
+    <file name="u18308-r.png" crc="3930451244" ref="phone>blog--service-design-t"/>
+    <file name="u18309.png" crc="44090460" ref="phone>blog--service-design-t"/>
+    <file name="u18309-r.png" crc="44090460" ref="phone>blog--service-design-t"/>
+    <file name="u18315.png" crc="4069538583" ref="phone>blog--service-design-t"/>
+    <file name="u18315-r.png" crc="4069538583" ref="phone>blog--service-design-t"/>
+    <file name="u18325-4.png" crc="501294162" ref="phone>blog--service-design-t"/>
+    <file name="u18316.png" crc="269471619" ref="phone>blog--service-design-t"/>
+    <file name="u18316-r.png" crc="4186791941" ref="phone>blog--service-design-t"/>
+    <file name="u18310.png" crc="80655561" ref="phone>blog--service-design-t"/>
+    <file name="u18310-r.png" crc="80655561" ref="phone>blog--service-design-t"/>
+    <file name="u18311.png" crc="393414192" ref="phone>blog--service-design-t"/>
+    <file name="u18311-r.png" crc="393414192" ref="phone>blog--service-design-t"/>
+    <file name="u18312.png" crc="4280666898" ref="phone>blog--service-design-t"/>
+    <file name="u18312-r.png" crc="4280666898" ref="phone>blog--service-design-t"/>
+    <file name="u18313_states.png" crc="486091552" ref="phone>blog--service-design-t"/>
+    <file name="u18313_states-r.png" crc="4112108706" ref="phone>blog--service-design-t"/>
+    <file name="u18314_states.png" crc="4178794581" ref="phone>blog--service-design-t"/>
+    <file name="u18314_states-r.png" crc="3877865249" ref="phone>blog--service-design-t"/>
+    <file name="u18474-4.png" crc="431714429" ref="phone>information-system"/>
+    <file name="u18469-8.png" crc="214371925" ref="phone>information-system"/>
+    <file name="u18473_states.png" crc="4220381144" ref="phone>information-system"/>
+    <file name="u18473_states-r.png" crc="73089050" ref="phone>information-system"/>
+    <file name="u18470-4-a.png" crc="208078233" ref="phone>information-system"/>
+    <file name="u18471_states.png" crc="308069927" ref="phone>information-system"/>
+    <file name="u18471_states-r.png" crc="435256171" ref="phone>information-system"/>
+    <file name="u18472_states.png" crc="4082767376" ref="phone>information-system"/>
+    <file name="u18472_states-r.png" crc="3416001" ref="phone>information-system"/>
+    <file name="captura de ecrã 2016-06-11, às 152445.png" crc="117069174" seo="true" ref="phone>information-system"/>
+    <file name="u18498_states.png" crc="4176766886" ref="phone>information-system"/>
+    <file name="u18498_states-r.png" crc="3852349453" ref="phone>information-system"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-152503.png" crc="376334749" seo="true" ref="phone>information-system"/>
+    <file name="u18501_states.png" crc="488541990" ref="phone>information-system"/>
+    <file name="u18501_states-r.png" crc="4104899571" ref="phone>information-system"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-152615.png" crc="4179252146" seo="true" ref="phone>information-system"/>
+    <file name="u18502_states.png" crc="345832837" ref="phone>information-system"/>
+    <file name="u18502_states-r.png" crc="3800945254" ref="phone>information-system"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-152625.png" crc="4248201834" seo="true" ref="phone>information-system"/>
+    <file name="u18503_states.png" crc="107711524" ref="phone>information-system"/>
+    <file name="u18503_states-r.png" crc="451643801" ref="phone>information-system"/>
+    <file name="u18696-4.png" crc="431714429" ref="phone>game-design"/>
+    <file name="u18691-8.png" crc="214371925" ref="phone>game-design"/>
+    <file name="u18695_states.png" crc="3924406423" ref="phone>game-design"/>
+    <file name="u18695_states-r.png" crc="103810144" ref="phone>game-design"/>
+    <file name="u18692_states.png" crc="406865937" ref="phone>game-design"/>
+    <file name="u18692_states-r.png" crc="4215433110" ref="phone>game-design"/>
+    <file name="u18693-5-a.png" crc="415582289" ref="phone>game-design"/>
+    <file name="u18694_states.png" crc="4197500675" ref="phone>game-design"/>
+    <file name="u18694_states-r.png" crc="3860523583" ref="phone>game-design"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-153220.png" crc="31923241" seo="true" ref="phone>game-design"/>
+    <file name="u18602_states.png" crc="4195998541" ref="phone>game-design"/>
+    <file name="u18602_states-r.png" crc="4258955499" ref="phone>game-design"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-153232.png" crc="3928167337" seo="true" ref="phone>game-design"/>
+    <file name="u18605_states.png" crc="3862295370" ref="phone>game-design"/>
+    <file name="u18605_states-r.png" crc="292467543" ref="phone>game-design"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-153238.png" crc="3812040029" seo="true" ref="phone>game-design"/>
+    <file name="u18606_states.png" crc="3836843153" ref="phone>game-design"/>
+    <file name="u18606_states-r.png" crc="4198526091" ref="phone>game-design"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-153247.png" crc="4261640099" seo="true" ref="phone>game-design"/>
+    <file name="u18607_states.png" crc="3873065716" ref="phone>game-design"/>
+    <file name="u18607_states-r.png" crc="230868747" ref="phone>game-design"/>
+    <file name="u18611.png" crc="3930451244" ref="phone>game-design"/>
+    <file name="u18611-r.png" crc="3930451244" ref="phone>game-design"/>
+    <file name="u18612.png" crc="178512688" ref="phone>game-design"/>
+    <file name="u18612-r.png" crc="178512688" ref="phone>game-design"/>
+    <file name="u18618.png" crc="4069538583" ref="phone>game-design"/>
+    <file name="u18618-r.png" crc="4069538583" ref="phone>game-design"/>
+    <file name="u18624-4.png" crc="501294162" ref="phone>game-design"/>
+    <file name="u18619.png" crc="269471619" ref="phone>game-design"/>
+    <file name="u18619-r.png" crc="4186791941" ref="phone>game-design"/>
+    <file name="u18613.png" crc="80655561" ref="phone>game-design"/>
+    <file name="u18613-r.png" crc="80655561" ref="phone>game-design"/>
+    <file name="u18614.png" crc="393414192" ref="phone>game-design"/>
+    <file name="u18614-r.png" crc="393414192" ref="phone>game-design"/>
+    <file name="u18615.png" crc="4280666898" ref="phone>game-design"/>
+    <file name="u18615-r.png" crc="4280666898" ref="phone>game-design"/>
+    <file name="u18616_states.png" crc="486091552" ref="phone>game-design"/>
+    <file name="u18616_states-r.png" crc="4112108706" ref="phone>game-design"/>
+    <file name="u18617_states.png" crc="4178794581" ref="phone>game-design"/>
+    <file name="u18617_states-r.png" crc="3877865249" ref="phone>game-design"/>
+    <file name="u18767-4.png" crc="431714429" ref="phone>human-computer"/>
+    <file name="u18762-8.png" crc="3765360718" ref="phone>human-computer"/>
+    <file name="u18766_states.png" crc="3924406423" ref="phone>human-computer"/>
+    <file name="u18766_states-r.png" crc="103810144" ref="phone>human-computer"/>
+    <file name="u18763_states.png" crc="406865937" ref="phone>human-computer"/>
+    <file name="u18763_states-r.png" crc="4215433110" ref="phone>human-computer"/>
+    <file name="u18764_states.png" crc="3917200770" ref="phone>human-computer"/>
+    <file name="u18764_states-r.png" crc="83761878" ref="phone>human-computer"/>
+    <file name="u18765-4-a.png" crc="360433589" ref="phone>human-computer"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-153716.png" crc="214458779" seo="true" ref="phone>human-computer"/>
+    <file name="u18791_states.png" crc="4202389383" ref="phone>human-computer"/>
+    <file name="u18791_states-r.png" crc="381791597" ref="phone>human-computer"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-153725.png" crc="96411994" seo="true" ref="phone>human-computer"/>
+    <file name="u18794_states.png" crc="4106255217" ref="phone>human-computer"/>
+    <file name="u18794_states-r.png" crc="4064182333" ref="phone>human-computer"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-154040.png" crc="4263172314" seo="true" ref="phone>human-computer"/>
+    <file name="u18795_states.png" crc="4181860572" ref="phone>human-computer"/>
+    <file name="u18795_states-r.png" crc="40962636" ref="phone>human-computer"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-153755.png" crc="3941943773" seo="true" ref="phone>human-computer"/>
+    <file name="u18796_states.png" crc="3849575249" ref="phone>human-computer"/>
+    <file name="u18796_states-r.png" crc="3992016950" ref="phone>human-computer"/>
+    <file name="u18801.png" crc="3930451244" ref="phone>human-computer"/>
+    <file name="u18801-r.png" crc="3930451244" ref="phone>human-computer"/>
+    <file name="u18802.png" crc="44090460" ref="phone>human-computer"/>
+    <file name="u18802-r.png" crc="44090460" ref="phone>human-computer"/>
+    <file name="u18808.png" crc="4069538583" ref="phone>human-computer"/>
+    <file name="u18808-r.png" crc="4069538583" ref="phone>human-computer"/>
+    <file name="u18814-4.png" crc="501294162" ref="phone>human-computer"/>
+    <file name="u18809.png" crc="269471619" ref="phone>human-computer"/>
+    <file name="u18809-r.png" crc="4186791941" ref="phone>human-computer"/>
+    <file name="u18803.png" crc="80655561" ref="phone>human-computer"/>
+    <file name="u18803-r.png" crc="80655561" ref="phone>human-computer"/>
+    <file name="u18804.png" crc="393414192" ref="phone>human-computer"/>
+    <file name="u18804-r.png" crc="393414192" ref="phone>human-computer"/>
+    <file name="u18805.png" crc="4280666898" ref="phone>human-computer"/>
+    <file name="u18805-r.png" crc="4280666898" ref="phone>human-computer"/>
+    <file name="u18806_states.png" crc="486091552" ref="phone>human-computer"/>
+    <file name="u18806_states-r.png" crc="4112108706" ref="phone>human-computer"/>
+    <file name="u18807_states.png" crc="4178794581" ref="phone>human-computer"/>
+    <file name="u18807_states-r.png" crc="3877865249" ref="phone>human-computer"/>
   </folder>
-  <file name="index.html" crc="146616315" seo="true" mt="1471870923885" redirect="true"/>
+  <file name="index.html" crc="4034549284" seo="true" mt="1471875717688" redirect="true"/>
   <file name="about.html" crc="4251068786" seo="true" mt="1471708950451" redirect="true"/>
   <file name="services.html" crc="3913317408" seo="true" mt="1471787273778" redirect="true"/>
   <file name="blog-service-design.html" crc="216019819" seo="true" mt="1471709053240" redirect="true"/>
-  <file name="information-system.html" crc="3970248170" seo="true" mt="1471709037094" redirect="true"/>
-  <file name="game-design.html" crc="4119456795" seo="true" mt="1471709021606" redirect="true"/>
-  <file name="human-computer.html" crc="4006048669" seo="true" mt="1471708971986" redirect="true"/>
+  <file name="information-system.html" crc="3807100716" seo="true" mt="1471879573420" redirect="true"/>
+  <file name="game-design.html" crc="3810065640" seo="true" mt="1471879584411" redirect="true"/>
+  <file name="human-computer.html" crc="272905034" seo="true" mt="1471879607162" redirect="true"/>
 </manifest>

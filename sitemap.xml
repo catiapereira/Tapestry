@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://tap.com/phone/aboutt.html</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/phone/servicest.html</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/phone/blog--service-design-t.html</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://tap.com/assets/image2.png</loc>
     <lastmod>2016-06-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,6 +217,108 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://tap.com/images/image2.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/image1.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-02,-%C3%A0s-002431.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-02,-%C3%A0s-002338.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-150611.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura%20de%20ecr%C3%A3%202016-06-11,%20%C3%A0s%20152445.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-152503.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-152615.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-152625.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-153220.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-153232.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-153238.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-153247.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-153716.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-153725.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-154040.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tap.com/images/captura-de-ecr%C3%A3-2016-06-11,-%C3%A0s-153755.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://tap.com/index.html</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -225,20 +345,23 @@
   </url>
   <url>
     <loc>http://tap.com/information-system.html</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tap.com/phone/information-system.html"/>
   </url>
   <url>
     <loc>http://tap.com/game-design.html</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tap.com/phone/game-design.html"/>
   </url>
   <url>
     <loc>http://tap.com/human-computer.html</loc>
-    <lastmod>2016-08-20</lastmod>
+    <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tap.com/phone/human-computer.html"/>
   </url>
 </urlset>
