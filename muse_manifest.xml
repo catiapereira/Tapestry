@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1471889093734">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1472203112714">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="235332357" ref="phone>index"/>
+      <file name="index.css" crc="4158331238" ref="phone>index"/>
       <file name="game-design.css" crc="527632092" ref="phone>game-design"/>
       <file name="information-system.css" crc="4104067632" ref="phone>information-system"/>
       <file name="blog--service-design-t.css" crc="3952503983" ref="phone>blog--service-design-t"/>
@@ -9,8 +9,9 @@
       <file name="aboutt.css" crc="3974471713" ref="phone>aboutt"/>
       <file name="human-computer.css" crc="4046699809" ref="phone>human-computer"/>
       <file name="nomq_human-computer.css" crc="321525473" ref="phone>human-computer"/>
+      <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4217273015" seo="true" mt="1471879880851" redirect="true"/>
+    <file name="index.html" crc="299194115" seo="true" mt="1471889905252" redirect="true"/>
     <file name="aboutt.html" crc="3860649968" seo="true" mt="1471882997124" redirect="true"/>
     <file name="servicest.html" crc="301980372" seo="true" mt="1471879021873" redirect="true"/>
     <file name="blog--service-design-t.html" crc="3913210309" seo="true" mt="1471883158738" redirect="true"/>
@@ -21,8 +22,8 @@
   <folder name="css">
     <file name="site_global.css" crc="3794487093"/>
     <file name="human-computer.css" crc="168659771" ref="human-computer"/>
-    <file name="index.css" crc="3790821181" ref="index"/>
-    <file name="nomq_index.css" crc="111417609" ref="index"/>
+    <file name="index.css" crc="7244344" ref="index"/>
+    <file name="nomq_index.css" crc="3837587481" ref="index"/>
     <file name="services.css" crc="225440678" ref="services"/>
     <file name="blog-service-design.css" crc="228693365" ref="blog-service-design"/>
     <file name="information-system.css" crc="4040184578" ref="information-system"/>
@@ -94,7 +95,7 @@
     <file name="u673_states-r.png" crc="416927418" ref="index"/>
     <file name="u686-4.png" crc="3984008446" ref="index"/>
     <file name="4444444444-04.png" crc="526236028" seo="true" ref="index"/>
-    <file name="66666-04.png" crc="4248022202" seo="true" ref="index:phone>index"/>
+    <file name="66666-04.png" crc="4248022202" seo="true" ref="phone>index"/>
     <file name="u664_states.png" crc="3781331516" ref="index"/>
     <file name="u664_states-r.png" crc="3874546465" ref="index"/>
     <file name="u667_states.png" crc="54749801" ref="index"/>
@@ -241,8 +242,6 @@
     <file name="u676_states3.png" crc="4293574307" ref="index"/>
     <file name="u676_states-r3.png" crc="3938904046" ref="index"/>
     <file name="u689-43.png" crc="38642285" ref="index"/>
-    <file name="u638.png" crc="4195960730" ref="index"/>
-    <file name="u638-r.png" crc="4195960730" ref="index"/>
     <file name="u667_states3.png" crc="453378417" ref="index"/>
     <file name="u667_states-r3.png" crc="4135596521" ref="index"/>
     <file name="u679_states3.png" crc="249326932" ref="index"/>
@@ -950,8 +949,9 @@
     <file name="u18806_states-r.png" crc="4112108706" ref="phone>human-computer"/>
     <file name="u18807_states.png" crc="4178794581" ref="phone>human-computer"/>
     <file name="u18807_states-r.png" crc="3877865249" ref="phone>human-computer"/>
+    <file name="padr-05.png" crc="4294564230" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4034549284" seo="true" mt="1471875717688" redirect="true"/>
+  <file name="index.html" crc="287413656" seo="true" mt="1472027315811" redirect="true"/>
   <file name="about.html" crc="4251068786" seo="true" mt="1471708950451" redirect="true"/>
   <file name="services.html" crc="3913317408" seo="true" mt="1471787273778" redirect="true"/>
   <file name="blog-service-design.html" crc="216019819" seo="true" mt="1471709053240" redirect="true"/>

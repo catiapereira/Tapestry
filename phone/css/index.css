@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #06E305;
+	color: #0000F7;
+	background-color: #DB1966;
 }
 
 #page
@@ -779,6 +779,13 @@
 	width: 100%;
 }
 
+#abouthome,#serviceshome,#bloghome
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+}
+
 #u17115-4
 {
 	z-index: 137;
@@ -1021,17 +1028,15 @@
 #u17072
 {
 	z-index: 2;
+	min-height: 551px;
 	background-color: #57BB63;
-	position: relative;
-	margin-right: -10000px;
-	width: 91.58%;
+	padding-top: 1px;
+	padding-bottom: 46px;
 }
 
-#u17072_position_content
+#contactshome
 {
-	padding-top: 32px;
-	padding-bottom: 46px;
-	width: 100%;
+	position: relative;
 }
 
 #u17180-6
@@ -1039,9 +1044,10 @@
 	z-index: 197;
 	display: block;
 	vertical-align: top;
+	margin-top: 13px;
 	position: relative;
-	width: 90.52%;
-	margin-left: 8.63%;
+	width: 82.9%;
+	margin-left: 7.9%;
 }
 
 #u17193-4
@@ -1051,8 +1057,8 @@
 	vertical-align: top;
 	margin-top: 13px;
 	position: relative;
-	width: 90.81%;
-	margin-left: 8.91%;
+	width: 83.16%;
+	margin-left: 8.16%;
 }
 
 #u17181-4
@@ -1062,8 +1068,8 @@
 	vertical-align: top;
 	margin-top: 8px;
 	position: relative;
-	width: 90.81%;
-	margin-left: 8.63%;
+	width: 83.16%;
+	margin-left: 7.9%;
 }
 
 #u17198
@@ -1077,8 +1083,8 @@
 	min-width: 30px;
 	margin-top: 28px;
 	position: relative;
-	width: 91.38%;
-	margin-left: 8.63%;
+	width: 83.69%;
+	margin-left: 7.9%;
 }
 
 #u17185-4
@@ -1088,8 +1094,8 @@
 	vertical-align: top;
 	margin-top: 16px;
 	position: relative;
-	width: 100.29%;
-	margin-left: 8.63%;
+	width: 91.85%;
+	margin-left: 7.9%;
 }
 
 #u17186-6
@@ -1097,11 +1103,11 @@
 	z-index: 216;
 	display: block;
 	vertical-align: top;
-	top: -5px;
-	margin-bottom: -5px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
-	width: 100.29%;
-	margin-left: 8.63%;
+	width: 91.85%;
+	margin-left: 7.9%;
 }
 
 #u17187-4
@@ -1109,10 +1115,10 @@
 	z-index: 222;
 	display: block;
 	vertical-align: top;
-	margin-top: 19px;
+	margin-top: 20px;
 	position: relative;
-	width: 100.29%;
-	margin-left: 8.63%;
+	width: 91.85%;
+	margin-left: 7.9%;
 }
 
 #u17188
@@ -1122,24 +1128,14 @@
 	background-color: #474747;
 	margin-top: 16px;
 	position: relative;
-	width: 19.26%;
-	margin-left: 8.63%;
-}
-
-#abouthome,#serviceshome,#bloghome,#contactshome
-{
-	position: relative;
-	width: 22px;
-	margin-right: -10000px;
-}
-
-#ppu17183
-{
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 55px;
-	width: 92.11%;
+	width: 17.64%;
 	margin-left: 7.9%;
+}
+
+#u17072-bw
+{
+	z-index: 2;
+	min-height: 551px;
 }
 
 #u17183
@@ -1147,8 +1143,10 @@
 	z-index: 209;
 	vertical-align: top;
 	position: relative;
-	width: 53.15%;
-	margin-left: 46.86%;
+	margin-right: -10000px;
+	margin-top: 55px;
+	width: 48.95%;
+	left: 51.06%;
 }
 
 #u17183_states
@@ -1175,20 +1173,22 @@
 	z-index: 211;
 	height: 4px;
 	background-color: #FFFFFF;
-	top: -5px;
-	margin-bottom: -4px;
 	position: relative;
-	width: 28.58%;
-	margin-left: 52.29%;
+	margin-right: -10000px;
+	margin-top: 86px;
+	width: 26.32%;
+	left: 55.79%;
 }
 
 #u17189
 {
 	z-index: 228;
 	vertical-align: top;
-	margin-top: 437px;
 	position: relative;
-	width: 55.15%;
+	margin-right: -10000px;
+	margin-top: 528px;
+	width: 50.79%;
+	left: 7.9%;
 }
 
 #u17189_states
@@ -1205,19 +1205,15 @@
 	background-size: contain;
 }
 
-#ppu17190
-{
-	margin-top: -1px;
-	width: 55.15%;
-}
-
 #u17190
 {
 	z-index: 231;
 	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
-	width: 100%;
+	margin-top: 555px;
+	width: 50.79%;
+	left: 7.9%;
 }
 
 #u17190_states
@@ -1246,8 +1242,9 @@
 	background-color: #474747;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 21px;
-	width: 30.57%;
+	margin-top: 576px;
+	width: 15.53%;
+	left: 7.9%;
 }
 
 #muse_css_mq,.html
@@ -1260,4 +1257,7 @@ body
 	position: relative;
 	min-width: 320px;
 }
+
+
+
 
