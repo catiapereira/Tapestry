@@ -8,6 +8,11 @@
 		display: block;
 	}
 
+	#page
+	{
+		max-width: 1280px;
+	}
+
 	#u6680
 	{
 		z-index: 165;
@@ -171,13 +176,11 @@
 	#pu257-4
 	{
 		margin-top: 5px;
-		width: 100%;
 	}
 
 	#u257-4
 	{
 		z-index: 14;
-		margin-right: -10000px;
 		margin-top: 1px;
 		width: 65.4%;
 		left: 7.19%;
@@ -490,12 +493,6 @@
 		margin-left: 21.8%;
 	}
 
-	#pu1040-4
-	{
-		margin-top: 19px;
-		width: 100%;
-	}
-
 	#u1040-4
 	{
 		z-index: 118;
@@ -598,7 +595,7 @@
 	{
 		z-index: 93;
 		margin-right: -10000px;
-		width: 99.91%;
+		width: 100.37%;
 	}
 
 	#u874-5
@@ -921,28 +918,33 @@
 		background-image: url("../images/u1763_states-r.png");
 	}
 
-	#pu1232
+	#contactshome
 	{
-		margin-top: 71px;
+		margin-top: 34px;
+	}
+
+	#pu1040-4,#pu1232
+	{
+		margin-top: 19px;
 		width: 100%;
 	}
 
-	#page,#u1232_align_to_page
+	#u1232
+	{
+		min-height: 684.6999999999998px;
+		padding-bottom: 0px;
+	}
+
+	#u1232_align_to_page
 	{
 		max-width: 1280px;
-	}
-
-	#u1232_position_content
-	{
-		padding-top: 1px;
+		padding-top: 97px;
 		padding-bottom: 88px;
-		width: 100%;
 	}
 
 	#u1235-6
 	{
 		z-index: 225;
-		margin-top: 79px;
 		width: 82.82%;
 		left: 7.27%;
 	}
@@ -950,7 +952,7 @@
 	#u15629-4
 	{
 		z-index: 263;
-		margin-top: 36px;
+		margin-top: 37px;
 		width: 34.38%;
 		left: 7.43%;
 	}
@@ -965,7 +967,7 @@
 
 	#pu1217
 	{
-		margin-top: 40px;
+		margin-top: 39px;
 		position: relative;
 		width: 100%;
 	}
@@ -1014,9 +1016,9 @@
 		width: 19.24%;
 	}
 
-	#u1232,#u1232-bw
+	#u1232-bw
 	{
-		min-height: 685px;
+		min-height: 684.6999999999998px;
 	}
 
 	#u5007

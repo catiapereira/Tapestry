@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1472203112714">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1472307298319">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4158331238" ref="phone>index"/>
+      <file name="index.css" crc="213565674" ref="phone>index"/>
       <file name="game-design.css" crc="527632092" ref="phone>game-design"/>
       <file name="information-system.css" crc="4104067632" ref="phone>information-system"/>
       <file name="blog--service-design-t.css" crc="3952503983" ref="phone>blog--service-design-t"/>
@@ -9,9 +9,8 @@
       <file name="aboutt.css" crc="3974471713" ref="phone>aboutt"/>
       <file name="human-computer.css" crc="4046699809" ref="phone>human-computer"/>
       <file name="nomq_human-computer.css" crc="321525473" ref="phone>human-computer"/>
-      <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="299194115" seo="true" mt="1471889905252" redirect="true"/>
+    <file name="index.html" crc="3792102388" seo="true" mt="1472307200359" redirect="true"/>
     <file name="aboutt.html" crc="3860649968" seo="true" mt="1471882997124" redirect="true"/>
     <file name="servicest.html" crc="301980372" seo="true" mt="1471879021873" redirect="true"/>
     <file name="blog--service-design-t.html" crc="3913210309" seo="true" mt="1471883158738" redirect="true"/>
@@ -22,8 +21,8 @@
   <folder name="css">
     <file name="site_global.css" crc="3794487093"/>
     <file name="human-computer.css" crc="168659771" ref="human-computer"/>
-    <file name="index.css" crc="7244344" ref="index"/>
-    <file name="nomq_index.css" crc="3837587481" ref="index"/>
+    <file name="index.css" crc="4067239698" ref="index"/>
+    <file name="nomq_index.css" crc="157456679" ref="index"/>
     <file name="services.css" crc="225440678" ref="services"/>
     <file name="blog-service-design.css" crc="228693365" ref="blog-service-design"/>
     <file name="information-system.css" crc="4040184578" ref="information-system"/>
@@ -48,18 +47,23 @@
     <file name="captura-de-ecrã-2016-06-11,-às-15.37.25.png" crc="4065014411" seo="true" mt="1465655852000"/>
     <file name="captura-de-ecrã-2016-06-11,-às-15.37.55.png" crc="122871828" seo="true" mt="1465655879000"/>
     <file name="captura-de-ecrã-2016-06-11,-às-15.40.40.png" crc="4147567071" seo="true" mt="1465656044000"/>
+    <file name="captura-de-ecrã-2016-06-11,-às-15.04.16.png" crc="63367621" seo="true" mt="1465653861000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
     <file name="museutils.js" crc="3790713428" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
     <file name="whatinput.js" crc="84559013" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
-    <file name="pie.js" crc="3827607177" ref="index:about:services:blog-service-design:information-system:game-design:human-computer"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index:about:services:blog-service-design:information-system:game-design:human-computer"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
     <file name="jquery.watch.js" crc="4244854265" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index:phone>aboutt:phone>servicest:phone>blog--service-design-t:phone>information-system:phone>game-design:phone>human-computer"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:services:blog-service-design:information-system:game-design:human-computer"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:services:blog-service-design:information-system:game-design:human-computer:phone>index"/>
     <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
     <file name="museredirect.js" crc="71780213" ref="index:information-system:game-design:human-computer"/>
+    <file name="webpro.js" crc="329496574" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="phone>index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="phone>index"/>
+    <file name="touchswipe.js" crc="497316881" ref="phone>index"/>
   </folder>
   <folder name="images">
     <file name="animadologo.gif" crc="3981825605" seo="true" ref="index"/>
@@ -633,7 +637,7 @@
     <file name="u14599_states.png" crc="269471619" ref="human-computer"/>
     <file name="u14599_states-r.png" crc="4186791941" ref="human-computer"/>
     <file name="u15713-4.png" crc="501294162" ref="human-computer"/>
-    <file name="u17125-6.png" crc="4010780661" ref="phone>index"/>
+    <file name="u17125-6.png" crc="440566230" ref="phone>index"/>
     <file name="u17076-6.png" crc="3829345409" ref="phone>index"/>
     <file name="u17077-7.png" crc="3849372775" ref="phone>index"/>
     <file name="u17074.png" crc="444695197" ref="phone>index"/>
@@ -703,7 +707,7 @@
     <file name="u17189_states-r.png" crc="3815913532" ref="phone>index"/>
     <file name="u17190_states.png" crc="4085546767" ref="phone>index"/>
     <file name="u17190_states-r.png" crc="89312122" ref="phone>index"/>
-    <file name="animadologo-u17196.png" crc="4181300638" ref="phone>index"/>
+    <file name="animadologo-u17196.png" crc="189392843" ref="phone>index"/>
     <file name="image2.png" crc="342572759" seo="true" ref="phone>index"/>
     <file name="image1.png" crc="3888453639" seo="true" ref="phone>index"/>
     <file name="u18087-4.png" crc="3884703094" ref="phone>aboutt"/>
@@ -950,11 +954,12 @@
     <file name="u18807_states.png" crc="4178794581" ref="phone>human-computer"/>
     <file name="u18807_states-r.png" crc="3877865249" ref="phone>human-computer"/>
     <file name="padr-05.png" crc="4294564230" seo="true" ref="index"/>
+    <file name="menu-alt-256.png" crc="191789486" seo="true" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="287413656" seo="true" mt="1472027315811" redirect="true"/>
+  <file name="index.html" crc="3779953720" seo="true" mt="1472306012861" redirect="true"/>
   <file name="about.html" crc="4251068786" seo="true" mt="1471708950451" redirect="true"/>
   <file name="services.html" crc="3913317408" seo="true" mt="1471787273778" redirect="true"/>
-  <file name="blog-service-design.html" crc="216019819" seo="true" mt="1471709053240" redirect="true"/>
+  <file name="blog-service-design.html" crc="3811236531" seo="true" mt="1472205321961" redirect="true"/>
   <file name="information-system.html" crc="3807100716" seo="true" mt="1471879573420" redirect="true"/>
   <file name="game-design.html" crc="3810065640" seo="true" mt="1471879584411" redirect="true"/>
   <file name="human-computer.html" crc="272905034" seo="true" mt="1471879607162" redirect="true"/>
