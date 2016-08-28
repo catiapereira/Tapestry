@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1472394264479">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1472404912517">
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="213565674" ref="phone>index"/>
+      <file name="index.css" crc="4162923726" ref="phone>index"/>
       <file name="game-design.css" crc="527632092" ref="phone>game-design"/>
       <file name="information-system.css" crc="4104067632" ref="phone>information-system"/>
       <file name="blog--service-design-t.css" crc="3952503983" ref="phone>blog--service-design-t"/>
@@ -10,7 +10,7 @@
       <file name="human-computer.css" crc="4046699809" ref="phone>human-computer"/>
       <file name="nomq_human-computer.css" crc="321525473" ref="phone>human-computer"/>
     </folder>
-    <file name="index.html" crc="3792102388" seo="true" mt="1472307200359" redirect="true"/>
+    <file name="index.html" crc="343530959" seo="true" mt="1472394473744" redirect="true"/>
     <file name="aboutt.html" crc="3860649968" seo="true" mt="1471882997124" redirect="true"/>
     <file name="servicest.html" crc="301980372" seo="true" mt="1471879021873" redirect="true"/>
     <file name="blog--service-design-t.html" crc="3913210309" seo="true" mt="1471883158738" redirect="true"/>
