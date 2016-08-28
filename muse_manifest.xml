@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1472307298319">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="tap.com" resolutions="1x" timestamp="1472394264479">
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="213565674" ref="phone>index"/>
